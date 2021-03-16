@@ -1,16 +1,25 @@
 # 1.Angular1.6_Webpack-Structure
-Basic Webpack_Webpack-dev-server + AngularJS1.x + Bootstrap structure practice.
+Basic Webpack + AngularJS_1.x + Bootstrap structure practice.
 
 Step 1:
 
-      npm i
+    npm i
 
-Step 2: Choose how to run:
-
-  Develop mode:
-    
-      npm run dev
+Step 2: Build the app
       
   Build:
   
-      npm run build
+    npm run build
+      
+Step 3: Run the app in Develop mode:
+    
+    npm run dev
+      
+Using:
+
+    webpack
+    webpack-cli
+    webpack-dev-server
+    angular
+    bootstrap-css-only
+
