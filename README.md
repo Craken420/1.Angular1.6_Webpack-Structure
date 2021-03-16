@@ -1,4 +1,4 @@
-# 1.Angular1.6_Webpack-Structure
+# 1.AngularJS_Webpack-Structure
 Basic Webpack + AngularJS_1.x + Bootstrap structure practice.
 
 Step 1:
